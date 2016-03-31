@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdventureGame_Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">menu_splash_screen</string>
+    <string name="welcomeMessage1">Welcome, Adventurer, to The Deep Dungeon!</string>
+    <string name="welcomeMessage2">Push Enter if you dare!</string>
+    <string name="buttonText">Enter!</string>
+    <string name="title_activity_room_screen">RoomScreen</string>
+</resources>

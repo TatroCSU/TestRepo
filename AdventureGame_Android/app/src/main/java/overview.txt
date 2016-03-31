@@ -1,0 +1,86 @@
+Team members:
+
+Eli Tatro
+Caity Corcoran
+Ben Hamor
+Hunter Zhang 
+
+Specific contributions by each person:
+Corcoran: User Story 1: Setting up Android Studio (4hrs) {Failure}
+	  User Story 2 Split Story A: (4hrs) 
+	  User Story 2 Split Story B: Bug 1 and 2 (2mins) 
+
+Tatro: User Story 1: Setting up Android Studio (16hrs) {Success}
+	  User Story 2 Split Story A: (4hrs)
+	  User Story 2 Split Story B: Bug 3 and 4 (2mins) 
+
+Hamor: User Story 1: Setting up Android Studio (7hrs)  {Failure}
+	  User Story 2 Split Story A: (4hrs)
+	  User Story 2 Split Story B: Bug 5 and 6 (2mins)
+
+Zhang: User Story 1: Setting up Android Studio (7)  {Failure}
+	  User Story 2 Split Story A: (4hrs)
+	  User Story 2 Split Story B: Bug 7 and 8 (4mins) 
+
+(Concerning Git)
+Once Eli got Android Studio up and running, we all grouped together at his house to write the code.  We emailed professor Bieman about this issue combined with or Github issues and he told us to list our contributions in the overview and upload our final working code to the Github repository and not worry about individual commits and pull requests.  So that is what we did. Our tasks are in our user stories as expected.
+
+
+CSU Honor Pledge:
+I have not given, received, or used any unauthorized assistance.
+Hunter Zhang
+Ben Hamor
+Eli Tatro
+Caity Cocoran
+
+Description Of Challenges.
+The only real challenge was getting android studio to run, and having the capability of being able to debug our work.
+Requiring us to have the "Proper" formate for our files, with an IDE that we are not familiary with, has proven to be very frustrating experience, and is only made worse by the fact that 10% of our grade is based on unfamiliar grounds.
+Test Information.
+(finish)
+
+
+Part 5 Questions.
+
+Based on your evaluation of the usability of the interface in terms of two goals:
+
+Goal 1: Efficiency of the user interacting with the user interface to complete a task based on typical tasks: 5 points
+
+  - Question 1: "Text space"
+    
+    Answer/Assessment:
+
+  - Question 2: How should we formate the navigation buttons in the most efficient way.
+
+    Answer/Assessment: After many minutes of debate, and a few trial and errors, we have concluded that most users will be right handed, and using their right thumb primarily to interact with our application. So we are going to put the navigation in the lower right hand corner, in order to maximize physical efficency for user interaction with our interface.
+
+Goal 2: Effectiveness of the user interface in causing the program to
+  follow the user's intent based on typical tasks: 5 points
+
+  - Question 1: Concerning North, East, South, West, Up and down. And given a limited amount of realistate on not only the screen, but the lower righthand side as determined in Gal 1 Question 2. What should the most effective postioning of the navigation buttons be?
+
+    Answer/Assessment: We worked with a few prototypes:     North   Up        
+                                                       South     East
+							    South   Down
+With this prototype we realized we did not have an efficiant use of space for the room, and item descriptions. Prototype 2:
+
+							    North  Up
+							  West East
+							    SouthDwon
+This did not work either, because we wanted to maintain everything using the "Relative" setting for interface design snd it really messed up the GUI.
+
+Our final prototype:    Ended up being two Colums, although not necissaryly efficiant, it was very very effective, in allowing us to display all information to the user.
+						North Up
+						West East
+						South Down
+
+
+  - Question 2: How can we most effectively demonstrate the concept of items the user can pickup, and items they can drop.
+   
+    Answer/Assessment: When we faced this problem we looked at our original solution of having text entry for the number corisponding to the item, and the drop/picup option. Now however, we believe given the low amount of relastate on an android device's screen, that having two activatable spiners that when "selected" display the items that can be dropped and the items that can be picket up, was not only a more effective for our use of space conundrom, but also very effective at showing the user the options evailable at the time they become evailable. 
+
+ Questions must generate data that can serve as a rationale for
+ design improvement. They must not be questions answered with
+ a simple "yes" or "no" answer.
+
+
